@@ -1,0 +1,10 @@
+body {
+  color: papayawhip;
+}
+* {
+  box-sizing: border-box
+}
+img {
+  border:20px inset papayawhip;
+  width:80%;
+}
